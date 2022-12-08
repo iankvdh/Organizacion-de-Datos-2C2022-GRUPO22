@@ -12,4 +12,4 @@ Integrantes:
     Ian Klaus von der Heyde - 107638
     Juan Pablo Aschieri - 108000
 
-Nota: Los modelos de clasificacion ocupan mucho espacio, por lo que les dejamos un link a un Drive para que los tengan https://drive.google.com/drive/folders/18lVJ_kswrniXVztbCnkX7cEhJ_DIpj94?usp=share_link
+Nota: Los modelos de clasificacion ocupan mucho espacio, por lo que les dejamos un link a un Drive para que los tengan https://drive.google.com/drive/folders/1fULXIU73I-AO75Jw6fXwhcsdVTLY4EsX?usp=sharing
