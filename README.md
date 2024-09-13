@@ -1,6 +1,6 @@
 # 7506R-2C2022-GRUPO22
 
-Materia Organizacion de Datos de la Facultad de Ingenieria de Buenos Aires.
+Materia Organizacion de Datos cátedea Rodríguez de la Facultad de Ingenieria de Buenos Aires.
 
 Los trabajos prácticos se realizaron utilizando un conjunto de datos reales proporcionados por la plataforma Properati, que contiene información sobre propiedades en venta en la República Argentina durante el año 2021. Estos datos, extraídos de BigQuery, incluyen una variedad de características relacionadas con los anuncios inmobiliarios, como el precio, la ubicación y las descripciones de las propiedades.
 
